@@ -1,0 +1,1904 @@
+
+7UP 2014 2015 2016
+Annual Low: 102.6 Annual High: 196.0 Current Price: 129.0
+Book Value: 27.03 37.34 38.66 
+EPS: 10.04 11.12 5.22 
+ROE: 0.37 0.30 0.14 
+ROA: 0.12 0.11 0.05 
+Dividend Yield: 0.02 0.02 0.02 
+Net Margin: 0.08 0.09 0.04 
+Debt Ratio: 1.45 1.55 1.58 
+Current Ratio: 0.59 0.71 0.72 
+P/E Ratio: 12.85 11.60 24.71 
+P/Book: 4.77 3.45 3.34 
+Margin of Safety: -3.77 -2.45 -2.34 
+
+ABCTRANS 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.38 1.12 1.18 
+EPS: 0.18 N/A 0.08 
+ROE: 0.13 N/A 0.07 
+ROA: 0.05 N/A 0.02 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.05 N/A 0.02 
+Debt Ratio: 1.68 1.41 1.48 
+Current Ratio: 0.82 0.56 0.63 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+ACADEMY 2014 2015 2016
+Annual Low: 0.5 Annual High: 0.69 Current Price: 0.5
+Book Value: 1.51 1.18 0.99 
+EPS: 0.18 N/A N/A 
+ROE: 0.12 N/A N/A 
+ROA: 0.02 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.04 N/A N/A 
+Debt Ratio: 1.25 1.25 1.20 
+Current Ratio: 0.60 0.55 0.60 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+ACCESS 2013 2014 2015
+Annual Low: 3.48 Annual High: 6.5 Current Price: 5.78
+Book Value: 10.61 11.97 12.58 
+EPS: 1.64 1.88 2.28 
+ROE: 0.15 0.16 0.18 
+ROA: 0.02 0.02 0.03 
+Dividend Yield: 0.15 0.10 0.09 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.15 1.15 1.16 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 3.52 3.07 2.54 
+P/Book: 0.54 0.48 0.46 
+Margin of Safety: 0.46 0.52 0.54 
+
+AFRIPRUD 2013 2014 2015
+Annual Low: 2.01 Annual High: 3.58 Current Price: 3.05
+Book Value: 2.17 2.26 2.29 
+EPS: 0.46 0.61 0.72 
+ROE: 0.21 0.27 0.31 
+ROA: 0.06 0.06 0.08 
+Dividend Yield: N/A 0.11 0.17 
+Net Margin: 0.49 0.54 0.56 
+Debt Ratio: 1.36 1.31 1.35 
+Current Ratio: 1.00 1.27 0.64 
+P/E Ratio: 6.63 5.00 4.24 
+P/Book: 1.41 1.35 1.33 
+Margin of Safety: -0.41 -0.35 -0.33 
+
+AFRPAINTS 2008 2011 2012
+Annual Low: 2.47 Annual High: 2.47 Current Price: 2.47
+Book Value: 2.17 0.00 0.02 
+EPS: 0.46 0.61 0.72 
+ROE: 0.21 N/A 36.00 
+ROA: 0.06 0.06 0.08 
+Dividend Yield: N/A 0.14 0.21 
+Net Margin: 0.49 0.54 0.56 
+Debt Ratio: 1.36 1.31 1.35 
+Current Ratio: 1.00 1.27 0.64 
+P/E Ratio: 5.37 4.05 3.43 
+P/Book: 1.14 N/A 123.50 
+Margin of Safety: -0.14 N/A -122.5 
+
+AGLEVENT 2013 2014 2015
+Annual Low: 0.59 Annual High: 1.17 Current Price: 0.96
+Book Value: 3.87 3.82 3.83 
+EPS: 0.26 0.08 N/A 
+ROE: 0.07 0.02 N/A 
+ROA: 0.03 0.01 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.06 0.02 N/A 
+Debt Ratio: 2.00 1.78 1.82 
+Current Ratio: 1.06 0.93 1.00 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+AIICO 2013 2014 2015
+Annual Low: 0.56 Annual High: 0.96 Current Price: 0.63
+Book Value: 1.47 1.63 1.33 
+EPS: N/A 0.32 0.17 
+ROE: N/A 0.20 0.13 
+ROA: N/A 0.04 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.10 0.05 
+Debt Ratio: 1.33 1.24 1.13 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+AIRSERVICE 2013 2014 2015
+Annual Low: 1.47 Annual High: 3.19 Current Price: 2.55
+Book Value: 3.41 3.63 3.27 
+EPS: 0.14 0.27 N/A 
+ROE: 0.04 0.07 N/A 
+ROA: 0.03 0.04 N/A 
+Dividend Yield: 0.10 0.05 0.06 
+Net Margin: 0.03 0.05 N/A 
+Debt Ratio: 2.67 2.16 1.82 
+Current Ratio: 2.95 1.61 1.23 
+P/E Ratio: 18.21 9.44 N/A 
+P/Book: 0.75 0.70 0.78 
+Margin of Safety: 0.25 0.3 0.22 
+
+ALEX 2013 2014 2015
+Annual Low:  Annual High:  Current Price: 9.75
+Book Value: 4.35 5.05 5.35 
+EPS: 0.61 0.77 0.38 
+ROE: 0.14 0.15 0.07 
+ROA: 0.08 0.10 0.05 
+Dividend Yield: 0.01 0.01 0.01 
+Net Margin: 0.07 0.09 0.03 
+Debt Ratio: 2.31 2.73 2.78 
+Current Ratio: 0.87 1.05 1.15 
+P/E Ratio: 15.98 12.66 25.66 
+P/Book: 2.24 1.93 1.82 
+Margin of Safety: -1.24 -0.93 -0.82 
+
+ASHAKACEM 2013 2014 2015
+Annual Low: 10.74 Annual High: 26.5 Current Price: 12.02
+Book Value: 21.06 22.90 23.68 
+EPS: 1.26 2.04 1.23 
+ROE: 0.06 0.09 0.05 
+ROA: 0.04 0.06 0.04 
+Dividend Yield: 0.03 0.03 0.04 
+Net Margin: 0.13 0.22 0.16 
+Debt Ratio: 3.33 3.53 4.05 
+Current Ratio: 2.42 2.67 2.70 
+P/E Ratio: 9.54 5.89 9.77 
+P/Book: 0.57 0.52 0.51 
+Margin of Safety: 0.43 0.48 0.49 
+
+AVONCROWN 2013 2014 2016
+Annual Low: 1.14 Annual High: 1.52 Current Price: 1.14
+Book Value: 2.91 3.05 2.70 
+EPS: N/A 0.19 N/A 
+ROE: N/A 0.06 N/A 
+ROA: N/A 0.01 N/A 
+Dividend Yield: N/A 0.04 N/A 
+Net Margin: N/A 0.01 N/A 
+Debt Ratio: 1.25 1.29 1.17 
+Current Ratio: 1.04 0.99 0.76 
+P/E Ratio: N/A 6.00 N/A 
+P/Book: 0.39 0.37 0.42 
+Margin of Safety: 0.61 0.63 0.58 
+
+BERGER 2013 2014 2015
+Annual Low: 6.23 Annual High: 10.5 Current Price: 6.4
+Book Value: 8.54 8.48 8.92 
+EPS: 0.89 0.51 1.14 
+ROE: 0.10 0.06 0.13 
+ROA: 0.07 0.04 0.08 
+Dividend Yield: 0.08 0.09 0.09 
+Net Margin: 0.10 0.05 0.11 
+Debt Ratio: 3.15 3.08 2.98 
+Current Ratio: 2.55 2.54 1.90 
+P/E Ratio: 7.19 12.55 5.61 
+P/Book: 0.75 0.75 0.72 
+Margin of Safety: 0.25 0.25 0.28 
+
+BETAGLAS 2013 2014 2015
+Annual Low: 30.0 Annual High: 53.45 Current Price: 30.24
+Book Value: 27.51 31.91 35.16 
+EPS: 2.93 4.78 3.98 
+ROE: 0.11 0.15 0.11 
+ROA: 0.05 0.09 0.07 
+Dividend Yield: 0.01 N/A 0.02 
+Net Margin: 0.10 0.14 0.12 
+Debt Ratio: 2.03 2.45 2.83 
+Current Ratio: 1.85 2.26 2.80 
+P/E Ratio: 10.32 6.33 7.60 
+P/Book: 1.10 0.95 0.86 
+Margin of Safety: -0.1 0.05 0.14 
+
+BOCGAS 2013 2014 2015
+Annual Low: 3.52 Annual High: 3.95 Current Price: 3.52
+Book Value: 4.64 5.16 5.37 
+EPS: 0.67 0.58 0.31 
+ROE: 0.14 0.11 0.06 
+ROA: 0.09 0.07 0.04 
+Dividend Yield: 0.02 0.07 0.01 
+Net Margin: 0.13 0.10 0.06 
+Debt Ratio: 2.71 2.46 2.91 
+Current Ratio: 1.87 1.25 1.25 
+P/E Ratio: 5.25 6.07 11.35 
+P/Book: 0.76 0.68 0.66 
+Margin of Safety: 0.24 0.32 0.34 
+
+CADBURY 2013 2014 2015
+Annual Low: 10.05 Annual High: 20.5 Current Price: 10.3
+Book Value: 12.78 6.79 6.54 
+EPS: 3.21 1.14 0.61 
+ROE: 0.25 0.17 0.09 
+ROA: 0.14 0.07 0.04 
+Dividend Yield: N/A N/A 0.07 
+Net Margin: 0.17 0.07 0.04 
+Debt Ratio: 2.25 1.79 1.76 
+Current Ratio: 1.82 1.00 1.09 
+P/E Ratio: 3.21 9.04 16.89 
+P/Book: 0.81 1.52 1.57 
+Margin of Safety: 0.19 -0.52 -0.57 
+
+CAP 2013 2014 2015
+Annual Low: 27.3 Annual High: 40.0 Current Price: 32.0
+Book Value: 1.81 1.69 2.17 
+EPS: 2.02 2.37 2.49 
+ROE: 1.12 1.40 1.15 
+ROA: 0.47 0.54 0.51 
+Dividend Yield: 0.06 0.08 0.06 
+Net Margin: 0.23 0.24 0.25 
+Debt Ratio: 1.72 1.62 1.80 
+Current Ratio: 1.52 1.41 1.59 
+P/E Ratio: 15.84 13.50 12.85 
+P/Book: 17.68 18.93 14.75 
+Margin of Safety: -16.68 -17.93 -13.75 
+
+CAPHOTEL 2013 2014 2015
+Annual Low: 3.5 Annual High: 3.87 Current Price: 3.5
+Book Value: 2.08 2.24 2.56 
+EPS: 0.11 0.16 0.32 
+ROE: 0.05 0.07 0.12 
+ROA: 0.03 0.03 0.07 
+Dividend Yield: N/A 0.00 0.00 
+Net Margin: 0.04 0.05 0.10 
+Debt Ratio: 2.02 1.98 2.10 
+Current Ratio: 2.39 2.12 2.00 
+P/E Ratio: 31.82 21.88 10.94 
+P/Book: 1.68 1.56 1.37 
+Margin of Safety: -0.68 -0.56 -0.37 
+
+CCNN 2013 2014 2015
+Annual Low: 4.04 Annual High: 10.1 Current Price: 5.0
+Book Value: 7.21 7.51 8.07 
+EPS: 1.13 1.53 0.96 
+ROE: 0.16 0.20 0.12 
+ROA: 0.09 0.12 0.07 
+Dividend Yield: N/A N/A 0.07 
+Net Margin: 0.09 0.13 0.09 
+Debt Ratio: 2.51 2.49 2.45 
+Current Ratio: 1.88 2.12 1.67 
+P/E Ratio: 4.42 3.27 5.21 
+P/Book: 0.69 0.67 0.62 
+Margin of Safety: 0.31 0.33 0.38 
+
+CHAMPION 2013 2014 2015
+Annual Low: 2.22 Annual High: 5.13 Current Price: 2.49
+Book Value: N/A 0.93 0.91 
+EPS: N/A N/A 0.01 
+ROE: N/A N/A 0.01 
+ROA: N/A N/A 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A 0.02 
+Debt Ratio: 0.66 2.58 3.22 
+Current Ratio: 0.07 0.43 0.76 
+P/E Ratio: N/A N/A 249.00 
+P/Book: N/A 2.68 2.74 
+Margin of Safety: N/A -1.68 -1.74 
+
+CHAMS 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.07 1.35 0.83 
+EPS: 0.04 0.06 N/A 
+ROE: 0.04 0.04 N/A 
+ROA: 0.02 0.02 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.05 0.07 N/A 
+Debt Ratio: 1.89 2.10 1.84 
+Current Ratio: 1.42 1.51 0.91 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+CHELLARAM 2013 2015 2016
+Annual Low: 3.41 Annual High: 3.58 Current Price: 3.41
+Book Value: 6.27 1.73 2.04 
+EPS: 0.12 N/A 0.22 
+ROE: 0.02 N/A 0.11 
+ROA: 0.01 N/A 0.01 
+Dividend Yield: 0.03 N/A N/A 
+Net Margin: 0.00 N/A 0.01 
+Debt Ratio: 1.42 1.07 1.12 
+Current Ratio: 1.06 0.85 0.84 
+P/E Ratio: 28.42 N/A 15.50 
+P/Book: 0.54 1.97 1.67 
+Margin of Safety: 0.46 -0.97 -0.67 
+
+CILEASING 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 3.08 3.49 3.41 
+EPS: 0.10 0.11 0.09 
+ROE: 0.03 0.03 0.03 
+ROA: 0.01 0.01 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.02 0.02 0.02 
+Debt Ratio: 1.35 1.32 1.23 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+CONOIL 2013 2014 2015
+Annual Low: 16.45 Annual High: 42.6 Current Price: 37.48
+Book Value: 25.99 23.19 25.52 
+EPS: 4.42 1.20 3.33 
+ROE: 0.17 0.05 0.13 
+ROA: 0.04 0.01 0.03 
+Dividend Yield: 0.03 0.11 0.03 
+Net Margin: 0.02 0.01 0.03 
+Debt Ratio: 1.28 1.23 1.34 
+Current Ratio: 1.21 1.16 1.26 
+P/E Ratio: 8.48 31.23 11.26 
+P/Book: 1.44 1.62 1.47 
+Margin of Safety: -0.44 -0.62 -0.47 
+
+CONTINSURE 2013 2014 2015
+Annual Low: 0.87 Annual High: 1.2 Current Price: 0.99
+Book Value: 1.38 1.33 1.39 
+EPS: 0.17 0.08 0.21 
+ROE: 0.12 0.06 0.15 
+ROA: 0.07 0.03 0.07 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.13 0.06 0.12 
+Debt Ratio: 2.21 1.96 1.94 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+CORNERST 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.79 0.88 0.81 
+EPS: 0.10 0.11 0.11 
+ROE: 0.13 0.12 0.14 
+ROA: 0.06 0.07 0.08 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.19 0.20 0.27 
+Debt Ratio: 1.95 2.14 2.31 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+COSTAIN 2010 2011 2012
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 7.24 6.05 4.34 
+EPS: 0.03 N/A N/A 
+ROE: 0.00 N/A N/A 
+ROA: 0.00 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.00 N/A N/A 
+Debt Ratio: 2.24 1.90 1.58 
+Current Ratio: 1.13 0.85 0.84 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+CUSTODYINS 2013 2014 2015
+Annual Low: 3.42 Annual High: 4.25 Current Price: 3.75
+Book Value: 3.38 4.00 4.31 
+EPS: 0.64 0.72 0.71 
+ROE: 0.19 0.18 0.16 
+ROA: 0.08 0.08 0.07 
+Dividend Yield: 0.03 0.05 0.05 
+Net Margin: 0.27 0.28 0.20 
+Debt Ratio: 1.72 1.83 1.80 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 5.86 5.21 5.28 
+P/Book: 1.11 0.94 0.87 
+Margin of Safety: -0.11 0.06 0.13 
+
+CUTIX 2014 2015 2016
+Annual Low: 1.26 Annual High: 2.13 Current Price: 1.89
+Book Value: 0.79 0.84 0.99 
+EPS: 0.23 0.17 0.22 
+ROE: 0.29 0.20 0.22 
+ROA: 0.12 0.08 0.10 
+Dividend Yield: 0.06 0.06 0.06 
+Net Margin: 0.09 0.06 0.07 
+Debt Ratio: 1.67 1.61 1.85 
+Current Ratio: 1.39 1.16 1.42 
+P/E Ratio: 8.22 11.12 8.59 
+P/Book: 2.39 2.25 1.91 
+Margin of Safety: -1.39 -1.25 -0.91 
+
+CWG 2013 2014 2015
+Annual Low:  Annual High:  Current Price: 2.67
+Book Value: 2.00 1.97 1.21 
+EPS: 0.24 0.05 N/A 
+ROE: 0.12 0.03 N/A 
+ROA: 0.05 0.01 N/A 
+Dividend Yield: 0.02 0.03 0.01 
+Net Margin: 0.03 0.01 N/A 
+Debt Ratio: 1.60 1.57 1.41 
+Current Ratio: 1.42 1.40 1.21 
+P/E Ratio: 11.12 53.40 N/A 
+P/Book: 1.33 1.36 2.21 
+Margin of Safety: -0.33 -0.36 -1.21 
+
+DAARCOMM 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.50 1.00 0.99 
+EPS: 0.02 N/A N/A 
+ROE: 0.01 N/A N/A 
+ROA: 0.01 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.06 N/A N/A 
+Debt Ratio: 3.45 2.12 2.41 
+Current Ratio: 0.66 0.30 0.41 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+DANGCEM 2013 2014 2015
+Annual Low: 122.9 Annual High: 203.96 Current Price: 173.99
+Book Value: 31.99 34.49 38.20 
+EPS: 11.81 9.36 10.64 
+ROE: 0.37 0.27 0.28 
+ROA: 0.24 0.16 0.16 
+Dividend Yield: 0.02 0.04 0.03 
+Net Margin: 0.52 0.41 0.37 
+Debt Ratio: 2.83 2.48 2.42 
+Current Ratio: 0.91 0.59 0.83 
+P/E Ratio: 14.73 18.59 16.35 
+P/Book: 5.44 5.04 4.55 
+Margin of Safety: -4.44 -4.04 -3.55 
+
+DANGFLOUR 2014 2015 2016
+Annual Low: 0.78 Annual High: 6.12 Current Price: 4.26
+Book Value: 2.02 N/A 3.42 
+EPS: N/A N/A 1.11 
+ROE: N/A N/A 0.32 
+ROA: N/A N/A 0.08 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A 0.07 
+Debt Ratio: 1.23 0.95 1.31 
+Current Ratio: 0.61 0.43 0.80 
+P/E Ratio: N/A N/A 3.84 
+P/Book: 2.11 N/A 1.25 
+Margin of Safety: -1.11 N/A -0.25 
+
+DANGSUGAR 2013 2014 2015
+Annual Low: 5.16 Annual High: 7.19 Current Price: 6.11
+Book Value: 3.93 4.30 4.87 
+EPS: 0.90 0.97 0.96 
+ROE: 0.23 0.23 0.20 
+ROA: 0.13 0.13 0.11 
+Dividend Yield: 0.08 0.10 0.07 
+Net Margin: 0.11 0.12 0.11 
+Debt Ratio: 2.31 2.25 2.32 
+Current Ratio: 1.34 1.04 1.08 
+P/E Ratio: 6.79 6.30 6.36 
+P/Book: 1.55 1.42 1.25 
+Margin of Safety: -0.55 -0.42 -0.25 
+
+DEAPCAP 2008 2011 2012
+Annual Low: 0.5 Annual High: 0.56 Current Price: 0.5
+Book Value: 1.76 N/A N/A 
+EPS: 0.23 N/A 0.17 
+ROE: 0.13 N/A N/A 
+ROA: 0.05 N/A 0.11 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.26 N/A 1.45 
+Debt Ratio: 1.65 0.44 0.47 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+DIAMONDBNK 2013 2014 2015
+Annual Low: 0.8 Annual High: 2.47 Current Price: 0.88
+Book Value: 9.58 9.00 9.24 
+EPS: 1.97 1.10 0.24 
+ROE: 0.21 0.12 0.03 
+ROA: 0.02 0.01 0.00 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.10 1.12 1.14 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+DNMEYER 2013 2014 2015
+Annual Low: 0.67 Annual High: 0.99 Current Price: 0.91
+Book Value: 2.12 1.99 2.35 
+EPS: 0.14 N/A 0.18 
+ROE: 0.07 N/A 0.08 
+ROA: 0.02 N/A 0.02 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.03 N/A 0.04 
+Debt Ratio: 1.36 1.36 1.41 
+Current Ratio: 0.87 0.75 0.73 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+DUNLOP 2011 2012 2013
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: N/A N/A N/A 
+EPS: N/A N/A 0.20 
+ROE: N/A N/A N/A 
+ROA: N/A N/A 0.15 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A 0.73 
+Debt Ratio: 0.69 0.64 0.64 
+Current Ratio: 0.18 0.12 0.09 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+ENAMELWA 2014 2015 2016
+Annual Low:  Annual High:  Current Price: 29.33
+Book Value: 19.71 20.73 22.40 
+EPS: 1.37 1.17 2.11 
+ROE: 0.07 0.06 0.09 
+ROA: 0.03 0.01 0.03 
+Dividend Yield: 0.02 N/A 0.02 
+Net Margin: 0.03 0.03 0.05 
+Debt Ratio: 1.67 1.35 1.45 
+Current Ratio: 1.30 1.16 1.25 
+P/E Ratio: 21.41 25.07 13.90 
+P/Book: 1.49 1.41 1.31 
+Margin of Safety: -0.49 -0.41 -0.31 
+
+EQUITYASUR 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.41 0.42 0.40 
+EPS: N/A 0.02 N/A 
+ROE: N/A 0.05 N/A 
+ROA: N/A 0.02 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.04 N/A 
+Debt Ratio: 1.60 1.64 1.89 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+ETI 2013 2014 2015
+Annual Low: 9.5 Annual High: 18.6 Current Price: 10.81
+Book Value: 0.11 0.10 0.13 
+EPS: 0.01 0.02 0.01 
+ROE: 0.09 0.20 0.08 
+ROA: 0.01 0.02 0.00 
+Dividend Yield: 0.00 N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.09 1.11 1.11 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 1081.00 540.50 1081.00 
+P/Book: 98.27 108.10 83.15 
+Margin of Safety: -97.27 -107.1 -82.15 
+
+ETRANZACT 2013 2014 2015
+Annual Low: 2.66 Annual High: 6.0 Current Price: 5.0
+Book Value: 0.11 0.10 0.13 
+EPS: 0.01 0.02 0.01 
+ROE: 0.09 0.20 0.08 
+ROA: 0.01 0.02 0.00 
+Dividend Yield: 0.00 N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.09 1.11 1.11 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 500.00 250.00 500.00 
+P/Book: 45.45 50.00 38.46 
+Margin of Safety: -44.45 -49.0 -37.46 
+
+EVANSMED 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 6.40 4.06 3.32 
+EPS: 0.64 N/A N/A 
+ROE: 0.10 N/A N/A 
+ROA: 0.04 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.06 N/A N/A 
+Debt Ratio: 1.63 1.35 1.32 
+Current Ratio: 0.99 0.76 0.59 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+FBNH 2013 2014 2015
+Annual Low: 2.95 Annual High: 5.14 Current Price: 3.52
+Book Value: 14.32 14.49 16.02 
+EPS: 2.16 2.34 0.42 
+ROE: 0.15 0.16 0.03 
+ROA: 0.02 0.02 0.00 
+Dividend Yield: 0.29 0.28 0.03 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.14 1.14 1.16 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 1.63 1.50 8.38 
+P/Book: 0.25 0.24 0.22 
+Margin of Safety: 0.75 0.76 0.78 
+
+FCMB 2013 2014 2015
+Annual Low: 0.68 Annual High: 1.92 Current Price: 1.09
+Book Value: 7.26 8.10 8.20 
+EPS: 0.81 1.12 0.24 
+ROE: 0.11 0.14 0.03 
+ROA: 0.02 0.02 0.00 
+Dividend Yield: N/A 0.28 0.23 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.17 1.16 1.16 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 1.35 0.97 4.54 
+P/Book: 0.15 0.13 0.13 
+Margin of Safety: 0.85 0.87 0.87 
+
+FIDELITYBK 2013 2014 2015
+Annual Low: 0.76 Annual High: 1.52 Current Price: 0.86
+Book Value: 5.64 5.98 6.34 
+EPS: 0.27 0.48 0.48 
+ROE: 0.05 0.08 0.08 
+ROA: 0.01 0.01 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.18 1.17 1.18 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+FIDSON 2013 2014 2015
+Annual Low: 1.2 Annual High: 2.85 Current Price: 1.33
+Book Value: 3.50 3.84 4.22 
+EPS: 0.10 0.42 0.50 
+ROE: 0.03 0.11 0.12 
+ROA: 0.01 0.04 0.04 
+Dividend Yield: 0.09 N/A 0.11 
+Net Margin: 0.02 0.06 0.09 
+Debt Ratio: 1.75 1.58 1.61 
+Current Ratio: 1.22 0.79 0.69 
+P/E Ratio: 13.30 3.17 2.66 
+P/Book: 0.38 0.35 0.32 
+Margin of Safety: 0.62 0.65 0.68 
+
+FIRSTALUM 2013 2014 2015
+Annual Low: N/A Annual High: N/A Current Price: 0.5
+Book Value: 3.50 3.84 4.22 
+EPS: 0.10 0.42 0.50 
+ROE: 0.03 0.11 0.12 
+ROA: 0.01 0.04 0.04 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.02 0.06 0.09 
+Debt Ratio: 1.75 1.58 1.61 
+Current Ratio: 1.22 0.79 0.69 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+FLOURMILL 2014 2015 2016
+Annual Low: 15.93 Annual High: 24.99 Current Price: 18.49
+Book Value: 30.46 32.15 35.42 
+EPS: 2.05 3.23 5.50 
+ROE: 0.07 0.10 0.16 
+ROA: 0.02 0.02 0.04 
+Dividend Yield: 0.10 0.10 0.08 
+Net Margin: 0.02 0.03 0.04 
+Debt Ratio: 1.37 1.33 1.37 
+Current Ratio: 0.78 0.69 0.68 
+P/E Ratio: 9.02 5.72 3.36 
+P/Book: 0.61 0.58 0.52 
+Margin of Safety: 0.39 0.42 0.48 
+
+FO 2013 2014 2015
+Annual Low: 51.16 Annual High: 342.0 Current Price: 88.87
+Book Value: 10.08 9.49 12.04 
+EPS: 3.87 3.40 5.33 
+ROE: 0.38 0.36 0.44 
+ROA: 0.05 0.03 0.05 
+Dividend Yield: N/A 0.04 0.03 
+Net Margin: 0.04 0.03 0.05 
+Debt Ratio: 1.14 1.10 1.12 
+Current Ratio: 1.06 1.00 0.96 
+P/E Ratio: 22.96 26.14 16.67 
+P/Book: 8.82 9.36 7.38 
+Margin of Safety: -7.82 -8.36 -6.38 
+
+FTNCOCOA 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.08 1.13 0.55 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 9.00 4.47 1.37 
+Current Ratio: 3.50 7.81 0.33 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+GLAXOSMITH 2013 2014 2015
+Annual Low: 13.54 Annual High: 36.7 Current Price: 15.75
+Book Value: 10.32 10.83 11.02 
+EPS: 2.44 1.55 0.81 
+ROE: 0.24 0.14 0.07 
+ROA: 0.11 0.07 0.03 
+Dividend Yield: 0.07 0.07 0.04 
+Net Margin: 0.10 0.06 0.03 
+Debt Ratio: 1.89 1.86 1.73 
+Current Ratio: 1.20 1.10 1.08 
+P/E Ratio: 6.45 10.16 19.44 
+P/Book: 1.53 1.45 1.43 
+Margin of Safety: -0.53 -0.45 -0.43 
+
+GOLDBREW 2001 2012 2013
+Annual Low: 0.85 Annual High: 0.93 Current Price: 0.85
+Book Value: 0.98 0.15 7.01 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.20 1.03 2.37 
+Current Ratio: 1.27 0.75 0.52 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+GOLDINSURE 2012 2013 2014
+Annual Low:  Annual High:  Current Price: 0.53
+Book Value: N/A N/A N/A 
+EPS: N/A 0.02 N/A 
+ROE: N/A N/A N/A 
+ROA: N/A 0.03 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.02 N/A 
+Debt Ratio: 0.55 0.43 0.36 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+GUARANTY 2013 2014 2015
+Annual Low: 13.16 Annual High: 27.67 Current Price: 24.74
+Book Value: 13.16 13.08 14.44 
+EPS: 3.62 3.50 3.53 
+ROE: 0.28 0.27 0.24 
+ROA: 0.04 0.04 0.04 
+Dividend Yield: 0.07 0.07 0.07 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.18 1.19 1.19 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 6.83 7.07 7.01 
+P/Book: 1.88 1.89 1.71 
+Margin of Safety: -0.88 -0.89 -0.71 
+
+GUINEAINS 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.47 0.49 0.47 
+EPS: 0.01 0.01 N/A 
+ROE: 0.02 0.02 N/A 
+ROA: 0.01 0.01 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.04 0.04 N/A 
+Debt Ratio: 2.84 3.42 2.74 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+GUINNESS 2014 2015 2016
+Annual Low: 72.05 Annual High: 127.45 Current Price: 83.4
+Book Value: 29.92 32.10 27.66 
+EPS: 6.36 5.18 N/A 
+ROE: 0.21 0.16 N/A 
+ROA: 0.07 0.06 N/A 
+Dividend Yield: N/A 0.04 0.02 
+Net Margin: 0.09 0.07 N/A 
+Debt Ratio: 1.52 1.65 1.44 
+Current Ratio: 0.92 0.73 0.71 
+P/E Ratio: 13.11 16.10 N/A 
+P/Book: 2.79 2.60 3.02 
+Margin of Safety: -1.79 -1.6 -2.02 
+
+HMARKINS 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.61 0.64 0.71 
+EPS: N/A 0.03 0.09 
+ROE: N/A 0.05 0.13 
+ROA: N/A 0.03 0.08 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.07 0.17 
+Debt Ratio: 2.45 2.67 2.55 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+HONYFLOUR 2014 2015 2016
+Annual Low: 0.97 Annual High: 2.15 Current Price: 1.3
+Book Value: 2.60 2.56 2.06 
+EPS: 0.42 0.14 N/A 
+ROE: 0.16 0.05 N/A 
+ROA: 0.05 0.02 N/A 
+Dividend Yield: 0.12 0.13 0.04 
+Net Margin: 0.06 0.02 N/A 
+Debt Ratio: 1.48 1.43 1.27 
+Current Ratio: 0.99 0.58 0.50 
+P/E Ratio: 3.10 9.29 N/A 
+P/Book: 0.50 0.51 0.63 
+Margin of Safety: 0.5 0.49 0.37 
+
+IKEJAHOTEL 2011 2012 2013
+Annual Low: 1.63 Annual High: 3.29 Current Price: 1.78
+Book Value: 2.43 1.35 2.03 
+EPS: 0.70 0.97 0.48 
+ROE: 0.29 0.72 0.24 
+ROA: 0.10 0.12 0.06 
+Dividend Yield: 0.00 0.02 N/A 
+Net Margin: 0.21 0.18 0.09 
+Debt Ratio: 1.53 1.21 1.32 
+Current Ratio: 0.99 1.72 1.67 
+P/E Ratio: 2.54 1.84 3.71 
+P/Book: 0.73 1.32 0.88 
+Margin of Safety: 0.27 -0.32 0.12 
+
+INTBREW 2014 2015 2016
+Annual Low: 14.82 Annual High: 20.49 Current Price: 18.5
+Book Value: 3.41 3.69 4.24 
+EPS: 0.64 0.59 0.80 
+ROE: 0.19 0.16 0.19 
+ROA: 0.09 0.06 0.08 
+Dividend Yield: N/A N/A 0.01 
+Net Margin: 0.11 0.09 0.11 
+Debt Ratio: 1.86 1.68 1.72 
+Current Ratio: 0.84 0.73 0.51 
+P/E Ratio: 28.91 31.36 23.12 
+P/Book: 5.43 5.01 4.36 
+Margin of Safety: -4.43 -4.01 -3.36 
+
+INTENEGINS 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: N/A N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: 0.00 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.00 N/A N/A 
+Debt Ratio: 1.04 0.85 0.79 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+INTERLINK 2014 2015 2016
+Annual Low: 4.0 Annual High: 4.0 Current Price: 3.8
+Book Value: 1.88 1.18 1.15 
+EPS: 0.02 0.03 0.00 
+ROE: 0.01 0.03 0.00 
+ROA: 0.01 0.01 0.00 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.03 0.02 0.01 
+Debt Ratio: 5.81 2.89 2.43 
+Current Ratio: 5.94 2.73 2.32 
+P/E Ratio: 190.00 126.67 N/A 
+P/Book: 2.02 3.22 3.30 
+Margin of Safety: -1.02 -2.22 -2.3 
+
+JAPAULOIL 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 2.53 2.08 0.71 
+EPS: 0.04 N/A N/A 
+ROE: 0.02 N/A N/A 
+ROA: 0.01 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.02 N/A N/A 
+Debt Ratio: 1.69 1.51 1.15 
+Current Ratio: 1.58 0.89 0.56 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+JBERGER 2013 2014 2015
+Annual Low: 35.0 Annual High: 50.93 Current Price: 38.58
+Book Value: 15.59 19.26 18.64 
+EPS: 5.95 6.24 1.88 
+ROE: 0.38 0.32 0.10 
+ROA: 0.03 0.03 0.01 
+Dividend Yield: 0.06 0.06 0.06 
+Net Margin: 0.04 0.04 0.02 
+Debt Ratio: 1.10 1.11 1.11 
+Current Ratio: 1.08 1.17 1.49 
+P/E Ratio: 6.48 6.18 20.52 
+P/Book: 2.47 2.00 2.07 
+Margin of Safety: -1.47 -1.0 -1.07 
+
+JOHNHOLT 2013 2014 2015
+Annual Low: 0.61 Annual High: 0.88 Current Price: 0.66
+Book Value: 5.51 8.56 8.17 
+EPS: 0.32 1.52 N/A 
+ROE: 0.06 0.18 N/A 
+ROA: 0.02 0.06 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.04 0.21 N/A 
+Debt Ratio: 1.35 1.48 1.39 
+Current Ratio: 0.12 0.23 0.62 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+LASACO 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.80 0.88 0.90 
+EPS: 0.04 0.06 0.04 
+ROE: 0.05 0.07 0.04 
+ROA: 0.02 0.03 0.02 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.06 0.12 0.07 
+Debt Ratio: 1.78 1.82 1.69 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+LAWUNION 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.76 Current Price: 0.77
+Book Value: 1.21 1.22 1.30 
+EPS: 0.14 0.04 0.08 
+ROE: 0.12 0.03 0.06 
+ROA: 0.07 0.02 0.03 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.15 0.04 0.08 
+Debt Ratio: 2.52 2.34 2.17 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+LEARNAFRCA 2013 2014 2015
+Annual Low: 0.58 Annual High: 0.91 Current Price: 0.77
+Book Value: 4.66 4.51 3.56 
+EPS: 0.10 N/A N/A 
+ROE: 0.02 N/A N/A 
+ROA: 0.02 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.03 N/A N/A 
+Debt Ratio: 4.46 7.12 4.26 
+Current Ratio: 3.81 6.14 3.63 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+LINKASSURE 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.86 1.92 1.95 
+EPS: 0.02 0.05 0.04 
+ROE: 0.01 0.03 0.02 
+ROA: 0.01 0.02 0.02 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.09 0.15 0.11 
+Debt Ratio: 8.07 7.48 7.52 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+LIVESTOCK 2013 2014 2015
+Annual Low: 0.72 Annual High: 1.53 Current Price: 0.84
+Book Value: 0.86 0.99 0.97 
+EPS: 0.11 0.13 0.09 
+ROE: 0.13 0.13 0.09 
+ROA: 0.06 0.04 0.04 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.03 0.03 0.02 
+Debt Ratio: 1.89 1.53 1.74 
+Current Ratio: 1.54 1.35 1.49 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+MANSARD 2013 2014 2015
+Annual Low: 1.56 Annual High: 2.76 Current Price: 1.67
+Book Value: 1.43 1.52 1.69 
+EPS: 0.21 0.16 0.16 
+ROE: 0.15 0.11 0.09 
+ROA: 0.06 0.04 0.03 
+Dividend Yield: 0.07 0.02 0.02 
+Net Margin: 0.21 0.13 0.11 
+Debt Ratio: 1.65 1.51 1.52 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 7.95 10.44 10.44 
+P/Book: 1.17 1.10 0.99 
+Margin of Safety: -0.17 -0.1 0.01 
+
+MAYBAKER 2013 2014 2015
+Annual Low: 0.8 Annual High: 1.22 Current Price: 0.94
+Book Value: 3.09 0.81 3.18 
+EPS: N/A 0.02 0.07 
+ROE: N/A 0.02 0.02 
+ROA: N/A 0.01 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.01 0.01 
+Debt Ratio: 1.59 1.62 1.61 
+Current Ratio: 1.07 1.11 1.03 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+MEYER 2013 2014 2015
+Annual Low: 0.67 Annual High: 0.99 Current Price: 0.87
+Book Value: 2.12 1.99 2.35 
+EPS: 0.14 N/A 0.18 
+ROE: 0.07 N/A 0.08 
+ROA: 0.02 N/A 0.02 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.03 N/A 0.04 
+Debt Ratio: 1.36 1.36 1.41 
+Current Ratio: 0.87 0.75 0.73 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+MOBIL 2013 2014 2015
+Annual Low: 118.06 Annual High: 340.0 Current Price: 275.5
+Book Value: 31.79 45.16 51.21 
+EPS: 11.60 21.31 16.24 
+ROE: 0.36 0.47 0.32 
+ROA: 0.09 0.13 0.09 
+Dividend Yield: N/A N/A 0.03 
+Net Margin: 0.04 0.08 0.08 
+Debt Ratio: 1.31 1.38 1.40 
+Current Ratio: 0.76 0.75 1.07 
+P/E Ratio: 23.75 12.93 16.96 
+P/Book: 8.67 6.10 5.38 
+Margin of Safety: -7.67 -5.1 -4.38 
+
+MRS 2013 2014 2015
+Annual Low: 31.93 Annual High: 47.18 Current Price: 41.08
+Book Value: 77.28 79.60 82.59 
+EPS: 2.50 2.94 3.69 
+ROE: 0.03 0.04 0.04 
+ROA: 0.01 0.01 0.01 
+Dividend Yield: N/A N/A 0.02 
+Net Margin: 0.01 0.01 0.01 
+Debt Ratio: 1.43 1.54 1.46 
+Current Ratio: 1.08 1.16 1.17 
+P/E Ratio: 16.43 13.97 11.13 
+P/Book: 0.53 0.52 0.50 
+Margin of Safety: 0.47 0.48 0.5 
+
+MTI 2009 2010 2011
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.39 N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 3.04 0.94 0.61 
+Current Ratio: 2.59 0.61 0.40 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+MULTIVERSE 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.50 0.38 0.30 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.76 1.51 1.37 
+Current Ratio: 0.15 0.04 0.07 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+NAHCO 2013 2014 2015
+Annual Low: 2.1 Annual High: 5.95 Current Price: 3.14
+Book Value: 3.59 3.67 3.83 
+EPS: 0.50 0.35 0.33 
+ROE: 0.14 0.10 0.09 
+ROA: 0.06 0.04 0.04 
+Dividend Yield: 0.07 0.09 0.06 
+Net Margin: 0.10 0.07 0.06 
+Debt Ratio: 1.75 1.71 1.71 
+Current Ratio: 1.68 1.37 1.34 
+P/E Ratio: 6.28 8.97 9.52 
+P/Book: 0.87 0.86 0.82 
+Margin of Safety: 0.13 0.14 0.18 
+
+NASCON 2013 2014 2015
+Annual Low: 5.75 Annual High: 8.77 Current Price: 8.49
+Book Value: 2.48 2.60 2.68 
+EPS: 1.02 0.70 0.80 
+ROE: 0.41 0.27 0.30 
+ROA: 0.25 0.16 0.13 
+Dividend Yield: 0.08 0.11 0.06 
+Net Margin: 0.25 0.17 0.13 
+Debt Ratio: 2.60 2.52 1.77 
+Current Ratio: 2.08 1.49 1.18 
+P/E Ratio: 8.32 12.13 10.61 
+P/Book: 3.42 3.27 3.17 
+Margin of Safety: -2.42 -2.27 -2.17 
+
+NB 2013 2014 2015
+Annual Low: 88.0 Annual High: 164.0 Current Price: 142.0
+Book Value: 14.86 22.73 21.72 
+EPS: 5.70 5.62 4.80 
+ROE: 0.38 0.25 0.22 
+ROA: 0.17 0.12 0.11 
+Dividend Yield: 0.02 0.04 0.03 
+Net Margin: 0.16 0.16 0.13 
+Debt Ratio: 1.80 1.97 1.94 
+Current Ratio: 0.45 0.50 0.41 
+P/E Ratio: 24.91 25.27 29.58 
+P/Book: 9.56 6.25 6.54 
+Margin of Safety: -8.56 -5.25 -5.54 
+
+NCR 2013 2012 2015
+Annual Low: 8.99 Annual High: 10.47 Current Price: 8.53
+Book Value: 14.86 22.73 21.72 
+EPS: 5.70 5.62 4.80 
+ROE: 0.38 0.25 0.22 
+ROA: 0.17 0.12 0.11 
+Dividend Yield: 0.34 0.66 0.47 
+Net Margin: 0.16 0.16 0.13 
+Debt Ratio: 1.80 1.97 1.94 
+Current Ratio: 0.45 0.50 0.41 
+P/E Ratio: 1.50 1.52 1.78 
+P/Book: 0.57 0.38 0.39 
+Margin of Safety: 0.43 0.62 0.61 
+
+NEIMETH 2013 2014 2015
+Annual Low: 0.6 Annual High: 1.24 Current Price: 0.78
+Book Value: 1.13 0.95 0.74 
+EPS: 0.08 N/A N/A 
+ROE: 0.07 N/A N/A 
+ROA: 0.05 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.06 N/A N/A 
+Debt Ratio: 2.60 2.16 2.11 
+Current Ratio: 2.59 1.99 2.08 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+NEM 2013 2014 2015
+Annual Low: 0.58 Annual High: 1.26 Current Price: 0.96
+Book Value: 0.89 1.12 1.17 
+EPS: 0.07 0.29 0.14 
+ROE: 0.08 0.26 0.12 
+ROA: 0.04 0.14 0.06 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.05 0.17 0.07 
+Debt Ratio: 1.88 2.16 1.99 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+NESTLE 2013 2014 2015
+Annual Low: 615.26 Annual High: 860.0 Current Price: 811.0
+Book Value: 51.19 45.32 47.93 
+EPS: 28.07 28.04 29.93 
+ROE: 0.55 0.62 0.62 
+ROA: 0.21 0.21 0.20 
+Dividend Yield: 0.03 0.04 0.03 
+Net Margin: 0.17 0.16 0.16 
+Debt Ratio: 1.60 1.51 1.47 
+Current Ratio: 1.26 0.84 0.82 
+P/E Ratio: 28.89 28.92 27.10 
+P/Book: 15.84 17.89 16.92 
+Margin of Safety: -14.84 -16.89 -15.92 
+
+NIGERINS 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.52 Current Price: 0.5
+Book Value: 1.06 1.08 1.12 
+EPS: 0.08 0.09 0.08 
+ROE: 0.08 0.08 0.07 
+ROA: 0.02 0.03 0.03 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.05 0.06 0.05 
+Debt Ratio: 1.49 1.58 1.70 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+NIGROPES 2013 2014 2015
+Annual Low:  Annual High:  Current Price: 7.46
+Book Value: N/A N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 0.83 0.66 0.59 
+Current Ratio: 0.90 0.72 0.64 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+NNFM 2014 2015 2016
+Annual Low: 6.01 Annual High: 8.55 Current Price: 6.01
+Book Value: 9.97 8.31 7.03 
+EPS: 1.31 N/A N/A 
+ROE: 0.13 N/A N/A 
+ROA: 0.07 N/A N/A 
+Dividend Yield: 0.07 0.07 0.05 
+Net Margin: 0.02 N/A N/A 
+Debt Ratio: 2.19 2.57 3.56 
+Current Ratio: 2.17 2.81 2.88 
+P/E Ratio: 4.59 N/A N/A 
+P/Book: 0.60 0.72 0.85 
+Margin of Safety: 0.4 0.28 0.15 
+
+NSLTECH 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.73 0.99 1.00 
+EPS: 0.03 0.01 0.02 
+ROE: 0.04 0.01 0.02 
+ROA: 0.02 0.01 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.02 0.01 0.01 
+Debt Ratio: 1.82 9.14 9.56 
+Current Ratio: 0.56 0.24 0.26 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+OANDO 2013 2014 2015
+Annual Low: 2.9 Annual High: 8.11 Current Price: 4.52
+Book Value: 23.31 3.43 3.06 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: 0.17 0.22 N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.37 1.04 1.04 
+Current Ratio: 0.60 0.37 0.29 
+P/E Ratio: N/A N/A N/A 
+P/Book: 0.19 1.32 1.48 
+Margin of Safety: 0.81 -0.32 -0.48 
+
+OKOMUOIL 2013 2014 2015
+Annual Low: 27.0 Annual High: 47.0 Current Price: 41.4
+Book Value: 23.71 24.35 12.65 
+EPS: 2.19 1.63 2.76 
+ROE: 0.09 0.07 0.22 
+ROA: 0.07 0.05 0.13 
+Dividend Yield: 0.08 0.02 0.01 
+Net Margin: 0.24 0.18 0.27 
+Debt Ratio: 4.04 3.41 2.51 
+Current Ratio: 1.49 0.55 1.12 
+P/E Ratio: 18.90 25.40 15.00 
+P/Book: 1.75 1.70 3.27 
+Margin of Safety: -0.75 -0.7 -2.27 
+
+OMATEK 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.93 0.90 0.95 
+EPS: 0.08 0.06 0.10 
+ROE: 0.09 0.07 0.11 
+ROA: 0.03 0.02 0.03 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.16 0.18 0.25 
+Debt Ratio: 1.69 1.44 1.48 
+Current Ratio: 1.46 2.71 4.16 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+OMOSAVBNK 2013 2014 2015
+Annual Low:  Annual High:  Current Price: 0.8
+Book Value: 0.87 0.86 0.80 
+EPS: N/A 0.02 N/A 
+ROE: N/A 0.02 N/A 
+ROA: N/A 0.02 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.05 N/A 
+Debt Ratio: 0.77 0.48 0.45 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+PREMPAINTS 2013 2014 2015
+Annual Low: 10.39 Annual High: 10.39 Current Price: 10.39
+Book Value: N/A N/A 0.21 
+EPS: N/A 0.07 N/A 
+ROE: N/A N/A N/A 
+ROA: N/A 0.03 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.02 N/A 
+Debt Ratio: 0.97 1.00 1.08 
+Current Ratio: 0.35 0.51 0.33 
+P/E Ratio: N/A 148.43 N/A 
+P/Book: N/A N/A 49.48 
+Margin of Safety: N/A N/A -48.48 
+
+PRESCO 2013 2014 2015
+Annual Low: 32.5 Annual High: 45.3 Current Price: 40.0
+Book Value: 17.38 29.06 30.39 
+EPS: 1.34 5.19 2.32 
+ROE: 0.08 0.18 0.08 
+ROA: 0.04 0.10 0.04 
+Dividend Yield: 0.03 0.00 0.03 
+Net Margin: 0.16 0.57 0.22 
+Debt Ratio: 2.14 2.40 2.21 
+Current Ratio: 0.95 0.97 0.94 
+P/E Ratio: 29.85 7.71 17.24 
+P/Book: 2.30 1.38 1.32 
+Margin of Safety: -1.3 -0.38 -0.32 
+
+PRESTIGE 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.76 1.82 1.12 
+EPS: N/A 0.01 N/A 
+ROE: N/A 0.01 N/A 
+ROA: N/A 0.00 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.00 N/A 
+Debt Ratio: 1.77 1.63 2.37 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+PZ 2014 2015 2016
+Annual Low: 14.1 Annual High: 32.0 Current Price: 14.5
+Book Value: 10.22 10.44 10.30 
+EPS: 1.28 1.15 0.54 
+ROE: 0.13 0.11 0.05 
+ROA: 0.07 0.07 0.03 
+Dividend Yield: 0.14 0.06 0.04 
+Net Margin: 0.07 0.06 0.03 
+Debt Ratio: 2.34 2.60 2.22 
+Current Ratio: 1.94 2.16 1.77 
+P/E Ratio: 11.33 12.61 26.85 
+P/Book: 1.42 1.39 1.41 
+Margin of Safety: -0.42 -0.39 -0.41 
+
+REDSTAREX 2014 2015 2016
+Annual Low: 3.8 Annual High: 4.8 Current Price: 4.4
+Book Value: 3.23 3.50 3.76 
+EPS: 0.69 0.65 0.57 
+ROE: 0.21 0.19 0.15 
+ROA: 0.12 0.10 0.09 
+Dividend Yield: 0.06 0.06 0.07 
+Net Margin: 0.06 0.06 0.05 
+Debt Ratio: 2.23 2.17 2.43 
+Current Ratio: 1.80 1.76 2.02 
+P/E Ratio: 6.38 6.77 7.72 
+P/Book: 1.36 1.26 1.17 
+Margin of Safety: -0.36 -0.26 -0.17 
+
+RESORTSAL 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.47 0.32 0.13 
+EPS: 0.25 N/A N/A 
+ROE: 0.53 N/A N/A 
+ROA: 0.37 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 2.83 N/A N/A 
+Debt Ratio: 3.14 1.75 1.24 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+ROYALEX 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.94 1.81 1.52 
+EPS: 0.17 0.03 N/A 
+ROE: 0.09 0.02 N/A 
+ROA: 0.04 0.01 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.10 0.02 N/A 
+Debt Ratio: 1.80 1.52 1.39 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+RTBRISCOE 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 2.59 2.76 N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.25 1.21 1.00 
+Current Ratio: 1.09 0.95 0.67 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+SCOA 2013 2014 2015
+Annual Low: 3.77 Annual High: 3.96 Current Price: 3.77
+Book Value: 4.15 4.26 2.29 
+EPS: 0.17 0.28 N/A 
+ROE: 0.04 0.07 N/A 
+ROA: 0.01 0.02 N/A 
+Dividend Yield: 0.01 0.03 0.03 
+Net Margin: 0.02 0.03 N/A 
+Debt Ratio: 1.50 1.39 1.17 
+Current Ratio: 1.33 1.14 0.96 
+P/E Ratio: 22.18 13.46 N/A 
+P/Book: 0.91 0.88 1.65 
+Margin of Safety: 0.09 0.12 -0.65 
+
+SEPLAT 2013 2014 2015
+Annual Low: 151.74 Annual High: 400.0 Current Price: 379.99
+Book Value: 1.83 2.55 2.52 
+EPS: 1.38 0.46 0.12 
+ROE: 0.75 0.18 0.05 
+ROA: 0.42 0.10 0.02 
+Dividend Yield: N/A 0.00 0.00 
+Net Margin: 0.62 0.33 0.12 
+Debt Ratio: 2.25 2.41 2.06 
+Current Ratio: 1.41 1.92 1.88 
+P/E Ratio: 275.36 826.07 3166.58 
+P/Book: 207.64 149.02 150.79 
+Margin of Safety: -206.64 -148.02 -149.79 
+
+SKYEBANK 2013 2014 2015
+Annual Low: 0.5 Annual High: 1.66 Current Price: 0.5
+Book Value: 8.61 9.47 7.44 
+EPS: 1.15 0.70 N/A 
+ROE: 0.13 0.07 N/A 
+ROA: 0.01 0.01 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.12 1.10 1.09 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+SKYESHELT 2013 2014 2015
+Annual Low:  Annual High:  Current Price: 100.0
+Book Value: 112.90 114.25 116.40 
+EPS: 5.60 6.45 7.95 
+ROE: 0.05 0.06 0.07 
+ROA: 0.05 0.05 0.06 
+Dividend Yield: 0.05 0.05 0.06 
+Net Margin: 0.66 0.72 0.77 
+Debt Ratio: 24.28 32.30 9.14 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 17.86 15.50 12.58 
+P/Book: 0.89 0.88 0.86 
+Margin of Safety: 0.11 0.12 0.14 
+
+SOVRENINS 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.51 0.61 0.61 
+EPS: 0.05 0.04 0.07 
+ROE: 0.10 0.07 0.11 
+ROA: 0.04 0.03 0.06 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.07 0.06 0.12 
+Debt Ratio: 1.67 1.96 2.19 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+STACO 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.50 0.55 0.56 
+EPS: 0.08 0.03 0.01 
+ROE: 0.16 0.05 0.02 
+ROA: 0.05 0.02 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.09 0.04 0.02 
+Debt Ratio: 1.56 1.50 1.46 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+STANBIC 2012 2013 2014
+Annual Low: 12.23 Annual High: 17.76 Current Price: 15.75
+Book Value: 8.33 4.72 5.50 
+EPS: 1.02 1.04 1.60 
+ROE: 0.12 0.22 0.29 
+ROA: 0.02 0.03 0.03 
+Dividend Yield: 0.06 0.03 0.04 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.14 1.14 1.13 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 15.44 15.14 9.84 
+P/Book: 1.89 3.34 2.86 
+Margin of Safety: -0.89 -2.34 -1.86 
+
+STDINSURE 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.49 0.28 0.36 
+EPS: N/A N/A 0.07 
+ROE: N/A N/A 0.19 
+ROA: N/A N/A 0.08 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A 0.17 
+Debt Ratio: 2.19 1.77 1.57 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+STERLNBANK 2013 2014 2015
+Annual Low: 0.67 Annual High: 1.98 Current Price: 0.8
+Book Value: 2.94 2.94 3.32 
+EPS: 0.38 0.31 0.36 
+ROE: 0.13 0.11 0.11 
+ROA: 0.01 0.01 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.10 1.11 1.14 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+STUDPRESS 2013 2014 2015
+Annual Low:  Annual High:  Current Price: 2.19
+Book Value: 26.86 22.45 2.86 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.30 1.21 1.19 
+Current Ratio: 2.19 1.29 1.05 
+P/E Ratio: N/A N/A N/A 
+P/Book: 0.08 0.10 0.77 
+Margin of Safety: 0.92 0.9 0.23 
+
+TANTALIZER 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.83 0.56 0.55 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.87 1.55 1.53 
+Current Ratio: 0.34 0.22 0.22 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+THOMASWY 2012 2013 2014
+Annual Low: 0.54 Annual High: 0.61 Current Price: 0.54
+Book Value: N/A N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 0.94 0.94 0.91 
+Current Ratio: 0.26 0.28 0.31 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+TOTAL 2013 2014 2015
+Annual Low: 137.75 Annual High: 345.0 Current Price: 299.0
+Book Value: 38.94 40.97 47.77 
+EPS: 15.69 13.01 11.90 
+ROE: 0.40 0.32 0.25 
+ROA: 0.07 0.05 0.05 
+Dividend Yield: N/A N/A 0.03 
+Net Margin: 0.02 0.02 0.02 
+Debt Ratio: 1.20 1.17 1.24 
+Current Ratio: 0.89 0.89 0.88 
+P/E Ratio: 19.06 22.98 25.13 
+P/Book: 7.68 7.30 6.26 
+Margin of Safety: -6.68 -6.3 -5.26 
+
+TOURIST 2014 2015 2016
+Annual Low: 3.51 Annual High: 3.51 Current Price: 3.51
+Book Value: 0.54 N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.13 0.88 0.60 
+Current Ratio: 1.02 1.42 1.34 
+P/E Ratio: N/A N/A N/A 
+P/Book: 6.50 N/A N/A 
+Margin of Safety: -5.5 N/A N/A 
+
+TRANSCOHOT 2013 2014 2015
+Annual Low: 4.77 Annual High: 6.1 Current Price: 4.98
+Book Value: 5.73 6.81 6.86 
+EPS: 1.16 0.85 0.92 
+ROE: 0.20 0.12 0.13 
+ROA: 0.13 0.09 0.08 
+Dividend Yield: 0.11 0.07 0.07 
+Net Margin: 0.29 0.21 0.25 
+Debt Ratio: 2.89 3.90 2.33 
+Current Ratio: 1.10 1.53 2.00 
+P/E Ratio: 4.29 5.86 5.41 
+P/Book: 0.87 0.73 0.73 
+Margin of Safety: 0.13 0.27 0.27 
+
+TRANSCORP 2013 2014 2015
+Annual Low: 0.66 Annual High: 2.13 Current Price: 0.88
+Book Value: 1.50 1.39 1.32 
+EPS: 0.18 0.08 0.05 
+ROE: 0.12 0.06 0.04 
+ROA: 0.05 0.02 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.37 0.08 0.05 
+Debt Ratio: 1.64 1.49 1.36 
+Current Ratio: 1.73 1.12 1.18 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UAC-PROP 2013 2014 2015
+Annual Low: 2.03 Annual High: 6.09 Current Price: 2.62
+Book Value: 24.36 21.02 20.76 
+EPS: 2.29 2.09 0.22 
+ROE: 0.09 0.10 0.01 
+ROA: 0.05 0.05 0.01 
+Dividend Yield: 0.27 0.21 0.19 
+Net Margin: 0.28 0.31 0.07 
+Debt Ratio: 2.01 2.13 1.98 
+Current Ratio: 0.68 0.81 0.72 
+P/E Ratio: 1.14 1.25 11.91 
+P/Book: 0.11 0.12 0.13 
+Margin of Safety: 0.89 0.88 0.87 
+
+UACN 2013 2014 2015
+Annual Low: 15.58 Annual High: 23.68 Current Price: 16.81
+Book Value: 17.88 23.41 23.21 
+EPS: 4.14 5.58 2.68 
+ROE: 0.23 0.24 0.12 
+ROA: 0.08 0.08 0.04 
+Dividend Yield: 0.06 0.10 0.10 
+Net Margin: 0.13 0.13 0.07 
+Debt Ratio: 1.52 1.53 1.53 
+Current Ratio: 1.16 1.22 1.19 
+P/E Ratio: 4.06 3.01 6.27 
+P/Book: 0.94 0.72 0.72 
+Margin of Safety: 0.06 0.28 0.28 
+
+UBA 2013 2014 2015
+Annual Low: 2.48 Annual High: 5.36 Current Price: 4.57
+Book Value: 6.67 7.88 8.98 
+EPS: 1.36 1.45 1.64 
+ROE: 0.20 0.18 0.18 
+ROA: 0.02 0.02 0.02 
+Dividend Yield: 0.10 0.10 0.06 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.09 1.10 1.13 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 3.36 3.15 2.79 
+P/Book: 0.69 0.58 0.51 
+Margin of Safety: 0.31 0.42 0.49 
+
+UBN 2013 2014 2015
+Annual Low: 3.7 Annual High: 6.9 Current Price: 5.6
+Book Value: 11.35 12.77 14.09 
+EPS: 0.37 1.57 0.82 
+ROE: 0.03 0.12 0.06 
+ROA: 0.01 0.03 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.24 1.27 1.30 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 15.14 3.57 6.83 
+P/Book: 0.49 0.44 0.40 
+Margin of Safety: 0.51 0.56 0.6 
+
+UCAP 2013 2014 2015
+Annual Low: 1.05 Annual High: 2.84 Current Price: 2.84
+Book Value: 2.10 1.51 1.74 
+EPS: 0.44 0.31 0.43 
+ROE: 0.21 0.21 0.25 
+ROA: 0.02 0.02 0.02 
+Dividend Yield: N/A 0.09 0.07 
+Net Margin: 0.39 0.39 0.42 
+Debt Ratio: 1.12 1.11 1.08 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 6.45 9.16 6.60 
+P/Book: 1.35 1.88 1.63 
+Margin of Safety: -0.35 -0.88 -0.63 
+
+UNHOMES 2011 2012 2013
+Annual Low: 3.02 Annual High: 4.5 Current Price: 3.02
+Book Value: N/A N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 0.88 0.79 0.64 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UNILEVER 2013 2014 2015
+Annual Low: 26.6 Annual High: 50.01 Current Price: 35.0
+Book Value: 2.47 1.98 2.12 
+EPS: 1.25 0.64 0.32 
+ROE: 0.51 0.32 0.15 
+ROA: 0.11 0.05 0.02 
+Dividend Yield: 0.04 0.04 0.00 
+Net Margin: 0.08 0.04 0.02 
+Debt Ratio: 1.27 1.20 1.19 
+Current Ratio: 0.66 0.59 0.61 
+P/E Ratio: 28.00 54.69 109.38 
+P/Book: 14.17 17.68 16.51 
+Margin of Safety: -13.17 -16.68 -15.51 
+
+UNIONDAC 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 2.47 1.98 2.12 
+EPS: 1.25 0.64 0.32 
+ROE: 0.51 0.32 0.15 
+ROA: 0.11 0.05 0.02 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.08 0.04 0.02 
+Debt Ratio: 1.27 1.20 1.19 
+Current Ratio: 0.66 0.59 0.61 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UNIONDICON 2013 2014 2015
+Annual Low: 10.65 Annual High: 17.35 Current Price: 15.67
+Book Value: N/A N/A N/A 
+EPS: 0.05 N/A N/A 
+ROE: N/A N/A N/A 
+ROA: 0.14 N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 0.07 0.07 0.06 
+Current Ratio: 0.03 0.03 0.01 
+P/E Ratio: 313.40 N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UNIONVENT 2011 2012 2013
+Annual Low:  Annual High:  Current Price: 0.63
+Book Value: 0.07 N/A N/A 
+EPS: N/A N/A N/A 
+ROE: N/A N/A N/A 
+ROA: N/A N/A N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.06 0.74 0.50 
+Current Ratio: 0.79 0.55 0.65 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UNITYBNK 2013 2014 2015
+Annual Low: 0.51 Annual High: 1.26 Current Price: 0.55
+Book Value: 7.34 21.82 7.06 
+EPS: N/A 3.06 0.40 
+ROE: N/A 0.14 0.06 
+ROA: N/A 0.03 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.08 1.23 1.23 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UNIVINSURE 2012 2013 2014
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 0.63 0.65 0.67 
+EPS: 0.00 0.02 0.03 
+ROE: 0.00 0.03 0.04 
+ROA: 0.00 0.02 0.03 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.06 0.36 0.57 
+Debt Ratio: 4.66 4.60 4.87 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+UPL 2014 2015 2016
+Annual Low: 3.61 Annual High: 6.0 Current Price: 4.25
+Book Value: 5.20 5.21 5.48 
+EPS: 0.54 0.32 0.17 
+ROE: 0.10 0.06 0.03 
+ROA: 0.08 0.05 0.02 
+Dividend Yield: 0.08 0.08 0.05 
+Net Margin: 0.10 0.08 0.05 
+Debt Ratio: 4.07 4.91 4.03 
+Current Ratio: 2.64 3.23 2.49 
+P/E Ratio: 7.87 13.28 25.00 
+P/Book: 0.82 0.82 0.78 
+Margin of Safety: 0.18 0.18 0.22 
+
+UTC 2008 2009 2012
+Annual Low: 0.5 Annual High: 0.5 Current Price: 0.5
+Book Value: 1.10 1.16 0.75 
+EPS: 0.04 0.06 N/A 
+ROE: 0.04 0.05 N/A 
+ROA: 0.02 0.03 N/A 
+Dividend Yield: N/A N/A N/A 
+Net Margin: 0.02 0.03 N/A 
+Debt Ratio: 2.02 2.05 1.53 
+Current Ratio: 0.52 0.65 0.26 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+VITAFOAM 2013 2014 2015
+Annual Low: 2.18 Annual High: 5.42 Current Price: 2.4
+Book Value: 2.87 3.26 5.66 
+EPS: 0.40 0.44 0.30 
+ROE: 0.14 0.13 0.05 
+ROA: 0.04 0.04 0.02 
+Dividend Yield: 0.10 0.10 0.14 
+Net Margin: 0.02 0.03 0.01 
+Debt Ratio: 1.38 1.37 1.47 
+Current Ratio: 0.98 1.02 1.09 
+P/E Ratio: 6.00 5.45 8.00 
+P/Book: 0.84 0.74 0.42 
+Margin of Safety: 0.16 0.26 0.58 
+
+WAPCO 2013 2014 2015
+Annual Low: 38.82 Annual High: 95.45 Current Price: 40.95
+Book Value: 28.16 20.72 23.42 
+EPS: 8.56 6.98 5.39 
+ROE: 0.30 0.34 0.23 
+ROA: 0.18 0.08 0.06 
+Dividend Yield: 0.03 0.07 0.06 
+Net Margin: 0.29 0.13 0.10 
+Debt Ratio: 2.37 1.32 1.35 
+Current Ratio: 0.89 0.95 0.83 
+P/E Ratio: 4.78 5.87 7.60 
+P/Book: 1.45 1.98 1.75 
+Margin of Safety: -0.45 -0.98 -0.75 
+
+WAPIC 2013 2014 2015
+Annual Low: 0.5 Annual High: 0.54 Current Price: 0.51
+Book Value: 1.06 1.06 1.12 
+EPS: N/A 0.02 0.10 
+ROE: N/A 0.02 0.09 
+ROA: N/A 0.01 0.05 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A 0.05 0.16 
+Debt Ratio: 2.75 2.81 2.71 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+WEMABANK 2013 2014 2015
+Annual Low: 0.5 Annual High: 1.03 Current Price: 0.52
+Book Value: 1.07 1.13 1.19 
+EPS: 0.04 0.06 0.06 
+ROE: 0.04 0.05 0.05 
+ROA: 0.00 0.01 0.01 
+Dividend Yield: N/A N/A N/A 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.14 1.13 1.13 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: N/A N/A N/A 
+P/Book: N/A N/A N/A 
+Margin of Safety: N/A N/A N/A 
+
+ZENITHBANK 2013 2014 2015
+Annual Low: 8.83 Annual High: 18.05 Current Price: 14.82
+Book Value: 16.09 17.58 18.91 
+EPS: 2.92 3.17 3.37 
+ROE: 0.18 0.18 0.18 
+ROA: 0.03 0.03 0.03 
+Dividend Yield: 0.11 0.12 0.13 
+Net Margin: N/A N/A N/A 
+Debt Ratio: 1.19 1.17 1.17 
+Current Ratio: N/A N/A N/A 
+P/E Ratio: 5.08 4.68 4.40 
+P/Book: 0.92 0.84 0.78 
+Margin of Safety: 0.08 0.16 0.22 
